@@ -10,4 +10,6 @@ You will need to have the following installed on your computer (latest version):
 - Pandas
 - TensorFlow
 - Matplotlib
+
+
 I recommend using the `pip install` command to install them.
